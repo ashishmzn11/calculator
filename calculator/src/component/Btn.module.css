@@ -1,0 +1,17 @@
+.btns{
+
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: wrap;
+    flex-wrap: wrap;
+    
+  
+  }
+  .btn{ 
+  
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+  
+  }
